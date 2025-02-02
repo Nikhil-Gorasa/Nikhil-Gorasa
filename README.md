@@ -51,13 +51,3 @@ I'm a coding enthusiast who loves hackathons, personal finance, and stock market
 - ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Nikhil-Gorasa&theme=radical&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-Gorasa&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Gorasa&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Nikhil-Gorasa&icon=0&color=0)](https://visitcount.itsvg.in)
