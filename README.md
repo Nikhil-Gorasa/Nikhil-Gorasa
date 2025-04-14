@@ -9,12 +9,8 @@ I'm a coding enthusiast who loves hackathons, personal finance, and stock market
 😄 Pronouns: He/Him  
 ⚡ Fun Fact: I make creativity and code collide every day!
 
----
-
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikhil_x_gorasa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-gorasa)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhil.gorasa1@gmail.com)
-
----
